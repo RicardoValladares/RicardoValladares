@@ -6,7 +6,12 @@
 
 
 <a href="https://www.facebook.com/Ryck.1992/">
-  <img width="22px" src="https://raw.githubusercontent.com/RicardoValladares/RicardoValladares/main/facebook.png" />
+  <img width="32px" src="https://raw.githubusercontent.com/RicardoValladares/RicardoValladares/main/facebook.png" />
+</a>
+
+
+<a href="https://www.youtube.com/user/SuperValladares">
+  <img width="32px" src="https://raw.githubusercontent.com/RicardoValladares/RicardoValladares/main/youtube.png" />
 </a>
 
 
