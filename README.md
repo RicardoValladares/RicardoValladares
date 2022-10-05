@@ -1,7 +1,7 @@
 ### hey there 
 
 <a href="http://multiplataformaprogramacion.blogspot.com/">
-  <img width="22px" src="https://raw.githubusercontent.com/RicardoValladares/RicardoValladares/main/blog.jpg" />
+  <img width="32px" src="https://raw.githubusercontent.com/RicardoValladares/RicardoValladares/main/blog.jpg" />
 </a>
 
 
