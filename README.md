@@ -14,6 +14,12 @@
   <img width="32px" src="https://raw.githubusercontent.com/RicardoValladares/RicardoValladares/main/youtube.png" />
 </a>
 
+<a href="https://raw.githubusercontent.com/RicardoValladares/RicardoValladares/main/gitlab.png">
+  <img width="32px" src="https://raw.githubusercontent.com/RicardoValladares/RicardoValladares/main/gitlab.png" />
+</a>
+
+
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
