@@ -3,7 +3,7 @@
 <a href="http://multiplataformaprogramacion.blogspot.com/">
   <img width="32px" src="https://raw.githubusercontent.com/RicardoValladares/RicardoValladares/main/blog.jpg" />
 </a>
-<a href="https://raw.githubusercontent.com/RicardoValladares/RicardoValladares/main/gitlab.png">
+<a href="https://gitlab.com/RicardoValladares">
   <img width="32px" src="https://raw.githubusercontent.com/RicardoValladares/RicardoValladares/main/gitlab.png" />
 </a>
 <a href="https://www.facebook.com/Ryck.1992/">
