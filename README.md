@@ -16,7 +16,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=RicardoValladares)
 
 
-📈 Mis estadisticas Github
+📈 Mis estadísticas Github:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ricardovalladares&show_icons=true&theme=gotham" alt="RicardoValladares" />
 
