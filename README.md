@@ -1,5 +1,8 @@
+<p align = "left">
+	![](https://visitor-badge.glitch.me/badge?page_id=RicardoValladares)
+</p>
+
 ### > Hola Mundo_ 
-![](https://visitor-badge.glitch.me/badge?page_id=RicardoValladares)
 
 <a href="http://multiplataformaprogramacion.blogspot.com/">
   <img align="left" src="https://img.shields.io/badge/blogger-%23FFC300.svg?&style=for-the-badge&logo=blogger&logoColor=white" />
