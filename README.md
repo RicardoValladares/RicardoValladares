@@ -16,6 +16,9 @@
 <a href="https://www.instagram.com/ryck.1992/">
   <img align="left" src="https://img.shields.io/badge/instagram-%23FFC0CB.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+<a href="https://twitter.com/Ricardo01493096">
+  <img align="left" src="https://img.shields.io/badge/twitter-%230080FF.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 <br><hr>
 
 
