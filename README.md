@@ -3,7 +3,9 @@
 ### > Hola Mundo_ 
 
 <div align = 'right'>
-	![](https://komarev.com/ghpvc/?username=RicardoValladares&color=blue)
+
+![](https://komarev.com/ghpvc/?username=RicardoValladares&color=blue)
+
 </div>
 
 <a href="http://multiplataformaprogramacion.blogspot.com/">
