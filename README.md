@@ -13,7 +13,9 @@
 <a href="https://www.youtube.com/user/SuperValladares">
   <img align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-
+<a href="https://www.instagram.com/ryck.1992/">
+  <img align="left" src="https://img.shields.io/badge/instagram-%23FFC0CB.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 <br><hr>
 
 
