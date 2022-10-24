@@ -18,7 +18,7 @@
 
 📈 Mis estadísticas Github:
 
-![RicardoValladares GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&show_icons=true&theme=tokyonight)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&show_icons=true&theme=tokyonight alt="RicardoValladares" />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RicardoValladares&show_icons=true&theme=tokyonight" alt="RicardoValladares" />
 
