@@ -1,7 +1,11 @@
+![](https://komarev.com/ghpvc/?username=RicardoValladares&color=blue)
+![](https://visitor-badge.glitch.me/badge?page_id=RicardoValladares)
+
 
 ```bash
 > Hola Mundo_
 ``` 
+
 
 <a href="http://multiplataformaprogramacion.blogspot.com/">
   <img align="left" src="https://img.shields.io/badge/blogger-%23FFC300.svg?&style=for-the-badge&logo=blogger&logoColor=white" />
@@ -24,8 +28,6 @@
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=RicardoValladares&color=blue)
-![](https://visitor-badge.glitch.me/badge?page_id=RicardoValladares)
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&hide=html,css&theme=tokyonight">
   &nbsp; &nbsp;
