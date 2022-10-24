@@ -1,10 +1,10 @@
-<div align = 'right'>
 
-![](https://komarev.com/ghpvc/?username=RicardoValladares&color=yellow)
-
-</div>
 
 ### > Hola Mundo_ 
+
+<div align = 'right'>
+	![](https://komarev.com/ghpvc/?username=RicardoValladares&color=blue)
+</div>
 
 <a href="http://multiplataformaprogramacion.blogspot.com/">
   <img align="left" src="https://img.shields.io/badge/blogger-%23FFC300.svg?&style=for-the-badge&logo=blogger&logoColor=white" />
