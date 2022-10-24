@@ -11,7 +11,7 @@
   <img align="left" src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://www.youtube.com/user/SuperValladares">
-  <img width="32px" src="https://raw.githubusercontent.com/RicardoValladares/RicardoValladares/main/youtube.png" />
+  <img align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 <hr>
