@@ -1,8 +1,5 @@
 ### > Hola Mundo_ 
-![](https://visitor-badge.glitch.me/badge?page_id=RicardoValladares)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RicardoValladares&show_icons=true&theme=tokyonight" alt="RicardoValladares" /></p>
-<br>
 <a href="http://multiplataformaprogramacion.blogspot.com/">
   <img width="32px" src="https://raw.githubusercontent.com/RicardoValladares/RicardoValladares/main/blog.jpg" />
 </a>
@@ -16,6 +13,11 @@
   <img width="32px" src="https://raw.githubusercontent.com/RicardoValladares/RicardoValladares/main/youtube.png" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=RicardoValladares)
+
 <hr>
 
-![RicardoValladares GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&show_icons=true&theme=tokyonight)
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=RicardoValladares&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&hide=html,css&theme=tokyonight">
+</p>
