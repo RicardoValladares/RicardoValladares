@@ -1,4 +1,5 @@
 ### > Hola Mundo_ 
+![](https://visitor-badge.glitch.me/badge?page_id=RicardoValladares)
 
 <a href="http://multiplataformaprogramacion.blogspot.com/">
   <img width="32px" src="https://raw.githubusercontent.com/RicardoValladares/RicardoValladares/main/blog.jpg" />
@@ -12,8 +13,6 @@
 <a href="https://www.youtube.com/user/SuperValladares">
   <img width="32px" src="https://raw.githubusercontent.com/RicardoValladares/RicardoValladares/main/youtube.png" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=RicardoValladares)
 
 <hr>
 
