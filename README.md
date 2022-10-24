@@ -14,7 +14,8 @@
   <img align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-<hr>
+<br><hr>
+
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&hide=html,css&theme=tokyonight">
