@@ -2,11 +2,6 @@
 
 ### > Hola Mundo_ 
 
-<div align = 'right'>
-
-![](https://komarev.com/ghpvc/?username=RicardoValladares&color=blue)
-
-</div>
 
 <a href="http://multiplataformaprogramacion.blogspot.com/">
   <img align="left" src="https://img.shields.io/badge/blogger-%23FFC300.svg?&style=for-the-badge&logo=blogger&logoColor=white" />
@@ -26,9 +21,11 @@
 <a href="https://twitter.com/Ricardo01493096">
   <img align="left" src="https://img.shields.io/badge/twitter-%230080FF.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+
 <br><hr>
 
-
+![](https://komarev.com/ghpvc/?username=RicardoValladares&color=blue)
+![](https://visitor-badge.glitch.me/badge?page_id=RicardoValladares)
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&hide=html,css&theme=tokyonight">
   &nbsp; &nbsp;
