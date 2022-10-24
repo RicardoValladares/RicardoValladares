@@ -26,7 +26,9 @@
   <img align="left" src="https://img.shields.io/badge/instagram-%23FFC0CB.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<br><br>
+
+<br><br><br><br>
+
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&hide=html,css&theme=tokyonight">
