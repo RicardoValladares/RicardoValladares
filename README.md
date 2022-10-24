@@ -16,8 +16,6 @@
   <img width="32px" src="https://raw.githubusercontent.com/RicardoValladares/RicardoValladares/main/youtube.png" />
 </a>
 
-
-
-📈 Mis estadísticas Github:
+<hr>
 
 ![RicardoValladares GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&show_icons=true&theme=tokyonight)
