@@ -22,7 +22,7 @@
   <img align="left" src="https://img.shields.io/badge/instagram-%23FFC0CB.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<br><hr>
+<br><br>
 
 ![](https://komarev.com/ghpvc/?username=RicardoValladares&color=blue)
 ![](https://visitor-badge.glitch.me/badge?page_id=RicardoValladares)
