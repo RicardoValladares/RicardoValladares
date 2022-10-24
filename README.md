@@ -1,6 +1,4 @@
-<p align = "left">
-	![](https://visitor-badge.glitch.me/badge?page_id=RicardoValladares)
-</p>
+<div align = 'right'>![](https://komarev.com/ghpvc/?username=RicardoValladares&color=yellow)</div>
 
 ### > Hola Mundo_ 
 
