@@ -5,5 +5,5 @@ push:
 	git add .
 	git commit -m "$(ahora)"
 	git pull origin fork 
-	git push origin main:fork
+	git push origin fork:fork
 
