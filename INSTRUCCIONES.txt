@@ -1,0 +1,18 @@
+gh auth login
+
+git config --global user.name "RicardoValladares"
+git config --global user.email "R_A_V_R_@HOTMAIL.COM"
+
+git clone https://github.com/RicardoValladares/RicardoValladares.git
+cd usandogit
+
+git init
+git status
+
+git branch -M main
+git add -A
+git commit -m "primer"
+
+git push -u origin main
+git push --set-upstream origin main
+
