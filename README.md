@@ -6,12 +6,14 @@
 > Hola Mundo_
 ``` 
 
-
-<a href="http://multiplataformaprogramacion.blogspot.com/">
-  <img align="left" src="https://img.shields.io/badge/blogger-%23FFC300.svg?&style=for-the-badge&logo=blogger&logoColor=white" />
-</a>
 <a href="https://gitlab.com/RicardoValladares">
   <img align="left" src="https://img.shields.io/badge/gitlab-%23D35400.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />
+</a>
+<a href="https://bitbucket.org/R_A_V_R_/">
+  <img align="left" src="https://img.shields.io/badge/bitbucket-%230080FF.svg?&style=for-the-badge&logo=bitbucket&logoColor=white" />
+</a>
+<a href="http://multiplataformaprogramacion.blogspot.com/">
+  <img align="left" src="https://img.shields.io/badge/blogger-%23FFC300.svg?&style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
 <a href="https://twitter.com/Ricardo01493096">
   <img align="left" src="https://img.shields.io/badge/twitter-%230080FF.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
@@ -21,9 +23,6 @@
 </a>
 <a href="https://www.facebook.com/Ryck.1992/">
   <img align="left" src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/ryck.1992/">
-  <img align="left" src="https://img.shields.io/badge/instagram-%23FFC0CB.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 
