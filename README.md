@@ -7,8 +7,6 @@
 
 ![](https://komarev.com/ghpvc/?username=RicardoValladares&color=blue)
 
-![](https://visitor-badge.glitch.me/badge?page_id=RicardoValladares)
-
 ```bash
 > Hola Mundo_
 ``` 
