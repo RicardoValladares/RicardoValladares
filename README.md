@@ -12,15 +12,6 @@
 <a href="https://bitbucket.org/R_A_V_R_/">
   <img align="left" src="https://img.shields.io/badge/bitbucket-%230080FF.svg?&style=for-the-badge&logo=bitbucket&logoColor=white" />
 </a>
-<a href="http://multiplataformaprogramacion.blogspot.com/">
-  <img align="left" src="https://img.shields.io/badge/blogger-%23FFC300.svg?&style=for-the-badge&logo=blogger&logoColor=white" />
-</a>
-<a href="https://twitter.com/Ricardo01493096">
-  <img align="left" src="https://img.shields.io/badge/twitter-%230080FF.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/user/SuperValladares">
-  <img align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
 
 
 <br><br><br><br>
