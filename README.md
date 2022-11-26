@@ -4,7 +4,9 @@
 <a href="https://bitbucket.org/R_A_V_R_/">
   <img align="left" src="https://img.shields.io/badge/bitbucket-%230080FF.svg?&style=for-the-badge&logo=bitbucket&logoColor=white" />
 </a>
+
 ![](https://komarev.com/ghpvc/?username=RicardoValladares&color=blue)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=RicardoValladares)
 
 ```bash
