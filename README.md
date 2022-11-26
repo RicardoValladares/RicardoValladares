@@ -5,13 +5,13 @@
   <img align="left" src="https://img.shields.io/badge/bitbucket-%230080FF.svg?&style=for-the-badge&logo=bitbucket&logoColor=white" />
 </a>
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=RicardoValladares)
+![](https://komarev.com/ghpvc/?username=RicardoValladares&color=blue)
 
 
 ```bash
 > Hola Mundo_
 ``` 
+<br>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&hide=html,css&theme=tokyonight">
