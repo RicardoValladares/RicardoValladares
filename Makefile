@@ -4,6 +4,6 @@ push:
 	git status
 	git add .
 	git commit -m "$(ahora)"
-	git pull origin fork 
-	git push origin fork:fork
+	git pull origin main 
+	git push origin main:main
 
