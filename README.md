@@ -21,9 +21,6 @@
 <a href="https://www.youtube.com/user/SuperValladares">
   <img align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/Ryck.1992/">
-  <img align="left" src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
 
 
 <br><br><br><br>
