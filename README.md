@@ -11,10 +11,8 @@
 <br><br>
 
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&layout=compact&langs_count=10&hide=html,css&theme=tokyonight">
+  <a href="https://github.com/RicardoValladares">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&layout=compact&langs_count=10&hide=html,css&theme=tokyonight">
+  </a>
 </p>
 
-
-<a href="https://github.com/RicardoValladares">
-  <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&layout=compact&langs_count=10&hide=html,css&theme=tokyonight">
-</a>
