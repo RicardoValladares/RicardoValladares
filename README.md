@@ -2,9 +2,6 @@
 <tr>
 <td>OK</td><td>OK</td>
 </tr>
-<tr>
-<td>OK</td><td>OK</td>
-</tr>
 </table>
 
 <a href="https://gihub.com/RicardoValladares">
