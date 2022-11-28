@@ -1,9 +1,6 @@
 <a href="https://gihub.com/RicardoValladares">
   <img align="left" src="https://visitor-badge.glitch.me/badge?page_id=RicardoValladares" />
 </a>
-<a href="https://gihub.com/RicardoValladares">
-  <img align="left" src="https://komarev.com/ghpvc/?username=RicardoValladares&color=blue" />
-</a>
 <a href="https://gitlab.com/RicardoValladares">
   <img align="left" src="https://img.shields.io/badge/gitlab-%23D35400.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />
 </a>
