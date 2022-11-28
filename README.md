@@ -5,7 +5,7 @@
   <img align="left" src="https://img.shields.io/badge/bitbucket-%230080FF.svg?&style=for-the-badge&logo=bitbucket&logoColor=white" />
 </a>
 
-<br><br>
+<br> <br>
 
 ```bash
 > Hola Mundo_
@@ -13,7 +13,11 @@
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&hide=html,css&theme=tokyonight">
+  <a href="https://github.com/RicardoValladares">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&hide=html,css&theme=tokyonight&langs_count=3">
+  </a>
   &nbsp; &nbsp;
-  <img  src = "https://github-readme-stats.vercel.app/api?username=RicardoValladares&show_icons=true&theme=tokyonight&line_height=27">
+  <a href="https://github.com/RicardoValladares">
+    <img  src = "https://github-readme-stats.vercel.app/api?username=RicardoValladares&show_icons=true&theme=tokyonight&line_height=27">
+  </a>
 </p>
