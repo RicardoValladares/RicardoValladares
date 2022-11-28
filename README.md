@@ -9,4 +9,9 @@
   <img align="left" src="https://img.shields.io/badge/bitbucket-%230080FF.svg?&style=for-the-badge&logo=bitbucket&logoColor=white" />
 </a>
 <br><br>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&layout=compact&langs_count=10&hide=html,css&theme=tokyonight">
+
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&layout=compact&langs_count=10&hide=html,css&theme=tokyonight">
+</p>
+
+
