@@ -1,7 +1,6 @@
-
-![](https://visitor-badge.glitch.me/badge?page_id=RicardoValladares)
-
-
+<a href="https://gihub.com/RicardoValladares">
+  <img align="left" src="https://visitor-badge.glitch.me/badge?page_id=RicardoValladares" />
+</a>
 <a href="https://gihub.com/RicardoValladares">
   <img align="left" src="https://komarev.com/ghpvc/?username=RicardoValladares&color=blue" />
 </a>
