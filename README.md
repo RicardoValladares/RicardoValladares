@@ -13,8 +13,4 @@
 
 <br>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&layout=compact&langs_count=10&hide=html,css&theme=tokyonight">
-  &nbsp; &nbsp;
-  <img  src = "https://github-readme-stats.vercel.app/api?username=RicardoValladares&show_icons=true&theme=tokyonight&line_height=27">
-</p>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&layout=compact&langs_count=10&hide=html,css&theme=tokyonight">
