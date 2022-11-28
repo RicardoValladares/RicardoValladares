@@ -16,7 +16,7 @@
 > Hola Mundo_
 ``` 
   
-      <br>
+      
   </td>
     <td>
       <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&layout=compact&langs_count=10&hide=html,css&theme=tokyonight">
