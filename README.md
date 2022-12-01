@@ -10,14 +10,4 @@
 ```bash
 > Hola Mundo_
 ``` 
-<br>
 
-<p align = "center">
-  <a href="https://github.com/RicardoValladares">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoValladares&hide=html,css&theme=tokyonight&langs_count=3">
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://github.com/RicardoValladares">
-    <img  src = "https://github-readme-stats.vercel.app/api?username=RicardoValladares&show_icons=true&theme=tokyonight&line_height=27">
-  </a>
-</p>
